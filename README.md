@@ -1,4 +1,4 @@
-<h2 align="center">:wave: Hi there! I'm Eric</h2>
+<h2 align="center">:wave: Hi there! I'm Eric.</h2>
 
 :snake: I'm a professional Python developer. Currently, I work out of Providence, RI, for [Marstone](https://www.marstone.com/).
 
