@@ -8,7 +8,7 @@
 
 :computer: Sometimes I write blog posts for my personal blog. You can read them [here](https://ericbernier.com/).
 
-:girl: :girl: :boy: I'm a husband, and also a father to two little Disney Princess superfans and a baby boy! 
+:girl: :girl: :boy: I'm a husband, and also a father to two awesome little girls and a baby boy! 
 
 :anchor: I live in Cranston, Rhode Island, USA. 
 
