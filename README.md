@@ -1,6 +1,6 @@
 <h2 align="center">:wave: Hi there! I'm Eric.</h2>
 
-:snake: I'm a professional Python developer. Currently, I work out of Providence, RI, for [Marstone](https://www.marstone.com/).
+:snake: I'm a seasoned software engineer with prior experience with Java and C# and a love for all things Python!
 
 :video_game: I make small [video games](https://ericbernier.com/games) in my free time, though very slowly these days.  
 
