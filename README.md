@@ -1,14 +1,14 @@
 <h2 align="center">:wave: Hi there! I'm Eric.</h2>
 
-:snake: I'm a seasoned software engineer with prior experience with Java and C# and a love for all things Python!
+:snake: With a solid background in Java and C#, I'm an experienced software engineer who's found a particular affinity for Python!
 
-:video_game: I make small [video games](https://ericbernier.com/games) in my free time, though very slowly these days.  
+:video_game: I make small [video games](https://ericbernier.com/games) in my free time, though very slowly these days.
 
 :wolf: You can play my latest game, "The Wolf's Bite", [here](https://store.steampowered.com/app/656040/The_Wolfs_Bite/). :pig:
 
-:computer: Sometimes I write blog posts for my personal blog. You can read them [here](https://ericbernier.com/).
+:computer: Sometimes I write blog posts. You can read my blog [here](https://ericbernier.com/).
 
-:girl: :girl: :boy: I'm a husband, and also a father to two awesome little girls and a baby boy! 
+:girl: :girl: :boy: I'm a dedicated husband and a proud dad to two brilliant little girls and an adorable baby boy!
 
 :anchor: I live in Cranston, Rhode Island, USA. 
 
