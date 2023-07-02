@@ -12,7 +12,7 @@
 
 :anchor: I live in Cranston, Rhode Island, USA. 
 
-:weight_lifting_man: I love to lift weights in my basement home gym. 
+:weight_lifting: I love to lift weights in my basement home gym. 
 
 :football: I tend to enjoy all things Fantasy Football. I created [FantasyDB](https://fantasydb.info) for fun!
 
