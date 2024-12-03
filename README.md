@@ -14,6 +14,4 @@
 
 :weight_lifting: I love to lift weights in my basement home gym. 
 
-:football: I tend to enjoy all things Fantasy Football. I created [FantasyDB](https://fantasydb.info)!
-
 :man_technologist: [I am a 1x engineer](https://1x.engineer/)
