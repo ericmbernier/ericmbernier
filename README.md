@@ -13,5 +13,3 @@
 :anchor: I live in Cranston, Rhode Island, USA. 
 
 :weight_lifting: I love to lift weights in my basement home gym. 
-
-:man_technologist: [I am a 1x engineer](https://1x.engineer/)
